@@ -4,12 +4,4 @@ third test
 fourth push test
 final push test
 
-checking....fdn
-dsa dffd
-
-fdfdsfsm
-fsdfsdfhjjfdhfdshjhjfdkjkjf
-dsfs
-fsdfsdfhjjfdhfdshjhjfdkjkjf
-fsfsefwfww
-rwerrwwe
+first push test from mac
